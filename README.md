@@ -12,7 +12,7 @@
 	
 <hr>
 
-# public class Yusunok🥰 {
+# 📌 public class Yusunok {
 - [private String introduce; // 자기소개](#-public-void-setintroducestring-introduce) 
 - [private List\<String\> dreams; // 꿈](#-public-void-setdreamsliststring-dreams)
 - [private String[] education; // 교육](#-public-void-seteducationstring-education)
