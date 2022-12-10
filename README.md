@@ -8,7 +8,7 @@
 ### - private String[] education;
 ### - private String[][] skills;
 ### - private String[] certificate;
-### - private String[] Awards;
+### - private String[] awards;
 ### - private List<String> projects;
     
 ### 📌 public void setIntroduce(String introduce) {
@@ -32,7 +32,7 @@
     }
    
 ### 📌 public void setAwards(String[] awards) {
-      Awards = awards;
+      awards = awards;
     }
    
 ### 📌 public void setProjects(List<String> projects) {
