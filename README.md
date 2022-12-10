@@ -5,7 +5,7 @@
 ##### import java.util.List;
 
 # public class Yusunok🥰 {
-### - [private String introduce;](#public void setIntroduce(String introduce) {) 
+### - [private String introduce;](#public void setIntroduce) 
 ### - private List<String> dreams; // 꿈
 ### - private String[] education; // 교육 
 ### - private String[][] skills; // 기술
