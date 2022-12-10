@@ -2,11 +2,6 @@
 <div align=center>
     <img src="https://capsule-render.vercel.app/api?type=rounded&color=50bcdf&height=200&section=header&text=Hello%20\'SUNOK\'%20world💻🚀;&fontSize=60" />
 </div>
-Mᴇʟᴀɴɪᴇ Mᴀʀᴛɪᴇɴᴇᴢ- Dᴇᴛᴇɴᴛɪᴏɴ
-0:35 ━❍──────── -5:32
-↻     ⊲  Ⅱ  ⊳     ↺
-VOLUME: ▁▂▃▄▅▆▇ 100%
-
 
 <div style="display:inline;">Green day - Give me Novacaine🌙｀、、｀ヽ｀ヽ｀、、ヽヽ、｀、ヽ｀ヽ｀ヽヽ｀</div>
 <div style="display:inline;">0:35 ━❍──────── -5:32ヽ｀、｀ヽ｀、ヽ｀｀、ヽ｀ヽ｀、ヽヽ｀ヽ、ヽ</div>
