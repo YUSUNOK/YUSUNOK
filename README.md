@@ -13,19 +13,19 @@
 <hr>
 
 # public class Yusunok🥰 {
-### - [private String introduce; // 자기소개](#-public-void-setintroducestring-introduce) 
-### - [private List\<String\> dreams; // 꿈](#-public-void-setdreamsliststring-dreams)
-### - [private String[] education; // 교육](#-public-void-seteducationstring-education)
-### - [private String[][] skills; // 기술](#-public-void-setskillsstring-skills)
-### - [private String[] certificate; // 자격증](#-public-void-setcertificatestring-certificate)
-### - [private String[] awards; // 수상](#-public-void-setawardsstring-awards)
-### - [private List\<String\> projects; // 프로젝트](#-public-void-setprojectsliststring-projects)
+### 		 [private String introduce; // 자기소개](#-public-void-setintroducestring-introduce) 
+### 		 [private List\<String\> dreams; // 꿈](#-public-void-setdreamsliststring-dreams)
+### 		 [private String[] education; // 교육](#-public-void-seteducationstring-education)
+### 		 [private String[][] skills; // 기술](#-public-void-setskillsstring-skills)
+### 		 [private String[] certificate; // 자격증](#-public-void-setcertificatestring-certificate)
+###		 [private String[] awards; // 수상](#-public-void-setawardsstring-awards)
+###		 [private List\<String\> projects; // 프로젝트](#-public-void-setprojectsliststring-projects)
 
 <hr>
 
 ### 📌 public void setIntroduce(String introduce)
     {
-       		this.introduce = 
+       	this.introduce = 
 			"안녕하세요! 저는 백엔드 개발자를 꿈꾸는 유선옥입니다. " + 
 			"인생의 갈림길에 서있을 적에 머리를 식힐 겸 선암사 여행을 갔습니다." +
 			"집으로 향하는 버스 창에 머리를 기대며 하루를 돌아볼 때까지 뚜렷한 답이 떠오르지 않았습니다." +
