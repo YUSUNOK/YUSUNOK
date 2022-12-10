@@ -19,7 +19,7 @@
 ### - [private String[][] skills; // 기술](#-public-void-setskillsstring-skills-)
 ### - [private String[] certificate; // 자격증](#-public-void-setcertificatestring-certificate-)
 ### - [private String[] awards; // 수상](#-public-void-setawardsstring-awards-)
-### - [private List\<String\> projects; // 프로젝트](#-public-void-setprojectslist-projects-)
+### - [private List\<String\> projects; // 프로젝트](#-public-void-setprojectsliststring-projects-)
 	
 ### 📌 public void setIntroduce(String introduce)
     {
