@@ -13,13 +13,13 @@
 <hr>
 
 # public class Yusunok🥰 {
-### 		 [private String introduce; // 자기소개](#-public-void-setintroducestring-introduce) 
-### 		 [private List\<String\> dreams; // 꿈](#-public-void-setdreamsliststring-dreams)
-### 		 [private String[] education; // 교육](#-public-void-seteducationstring-education)
-### 		 [private String[][] skills; // 기술](#-public-void-setskillsstring-skills)
-### 		 [private String[] certificate; // 자격증](#-public-void-setcertificatestring-certificate)
-###		 [private String[] awards; // 수상](#-public-void-setawardsstring-awards)
-###		 [private List\<String\> projects; // 프로젝트](#-public-void-setprojectsliststring-projects)
+- [private String introduce; // 자기소개](#-public-void-setintroducestring-introduce) 
+- [private List\<String\> dreams; // 꿈](#-public-void-setdreamsliststring-dreams)
+- [private String[] education; // 교육](#-public-void-seteducationstring-education)
+- [private String[][] skills; // 기술](#-public-void-setskillsstring-skills)
+- [private String[] certificate; // 자격증](#-public-void-setcertificatestring-certificate)
+- [private String[] awards; // 수상](#-public-void-setawardsstring-awards)
+- [private List\<String\> projects; // 프로젝트](#-public-void-setprojectsliststring-projects)
 
 <hr>
 
