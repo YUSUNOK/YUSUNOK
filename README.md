@@ -20,7 +20,9 @@
 ### - [private String[] certificate; // 자격증](#-public-void-setcertificatestring-certificate-)
 ### - [private String[] awards; // 수상](#-public-void-setawardsstring-awards-)
 ### - [private List\<String\> projects; // 프로젝트](#-public-void-setprojectsliststring-projects-)
-	
+
+<hr>
+
 ### 📌 public void setIntroduce(String introduce)
     {
        		this.introduce = 
@@ -39,30 +41,49 @@
  		         `し´			                                                                  
     }
     
-### 📌 public void setDreams(List\<String\> dreams) {
+<hr>    
+    
+### 📌 public void setDreams(List\<String\> dreams) 
+    {
       this.dreams = dreams;
     }
-    
-### 📌 public void setEducation(String[] education) {
+   
+<hr>
+
+### 📌 public void setEducation(String[] education)
+    {
       this.education = education;
     }
 
-### 📌 public void setSkills(String[][] skills) {
+<hr>
+
+### 📌 public void setSkills(String[][] skills) 
+    {
       this.skills = skills;
     }
 
-### 📌 public void setCertificate(String[] certificate) {
+<hr>
+
+### 📌 public void setCertificate(String[] certificate) 
+    {
       this.certificate = certificate;
     }
-   
-### 📌 public void setAwards(String[] awards) {
+    
+<hr>
+
+### 📌 public void setAwards(String[] awards)
+    {
       this.awards = awards;
     }
-   
-### 📌 public void setProjects(List\<String\> projects) {
+
+<hr>
+
+### 📌 public void setProjects(List\<String\> projects)
+   {
       this.projects = projects;
-    }
-## }
+   }
+   
+
 
 
 
