@@ -1,6 +1,6 @@
 
 <div align=center>
-    <img src="https://capsule-render.vercel.app/api?type=rounded&color=50bcdf&height=200&section=header&text=Hello%20\'SUNOK\'%20world💻🚀;&fontSize=60" />
+    <img src="https://capsule-render.vercel.app/api?type=rounded&color=50bcdf&height=200&width=2000&section=header&text=Hello%20\'SUNOK\'%20world💻🚀;&fontSize=60" />
 </div>
 
 ### 📌 playing now...
@@ -9,7 +9,7 @@
   	0:35 ━❍──────── -5:32
    	↻     ⊲  Ⅱ  ⊳     ↺
    	VOLUME: ▁▂▃▄▅▆▇ 100%
-
+	
 <hr>
 
 # public class Yusunok🥰 {
