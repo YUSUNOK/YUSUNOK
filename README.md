@@ -1,3 +1,78 @@
+import java.util.List;
+
+public class Yusunok {
+    private String introduce;
+    private List<String> dreams;
+    private String[] education;
+    private String[][] skills;
+    private String[] certificate;
+    private String[] Awards;
+    private List<String> projects;
+    
+    public String getIntroduce() {
+      return introduce;
+    }
+    public void setIntroduce(String introduce) {
+      this.introduce = introduce;
+    }
+    public List<String> getDreams() {
+      return dreams;
+    }
+    public void setDreams(List<String> dreams) {
+      this.dreams = dreams;
+    }
+    public String[] getEducation() {
+      return education;
+    }
+    public void setEducation(String[] education) {
+      this.education = education;
+    }
+    public String[][] getSkills() {
+      return skills;
+    }
+    public void setSkills(String[][] skills) {
+      this.skills = skills;
+    }
+    public String[] getCertificate() {
+      return certificate;
+    }
+    public void setCertificate(String[] certificate) {
+      this.certificate = certificate;
+    }
+    public String[] getAwards() {
+      return Awards;
+    }
+    public void setAwards(String[] awards) {
+      Awards = awards;
+    }
+    public List<String> getProjects() {
+      return projects;
+    }
+    public void setProjects(List<String> projects) {
+      this.projects = projects;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # System.out.println("Hello \"Sunok\" World!");
 
       -
