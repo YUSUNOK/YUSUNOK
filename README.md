@@ -1,4 +1,8 @@
-# System.out.println("Hello Sunok World!🚀")
+# System.out.println("Hello Sunok World!🚀");
+## who is she? 
+      -System.out.println("이름 : 유선옥");
+      
+      
 
 <!--
 **YUSUNOK/YUSUNOK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
