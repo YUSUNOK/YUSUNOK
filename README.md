@@ -20,7 +20,8 @@
 ### - [private List<String> projects; // 프로젝트](#-public-void-setprojectslist-projects-)
 	
 	
-### 📌 public void setIntroduce(String introduce) {
+### 📌 public void setIntroduce(String introduce)
+    {
        		this.introduce = 
 			"안녕하세요! 저는 백엔드 개발자를 꿈꾸는 유선옥입니다. " + 
 			"인생의 갈림길에 서있을 적에 머리를 식힐 겸 선암사 여행을 갔습니다." +
