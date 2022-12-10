@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=10A19D&text=hello sunok world&fontAlign=50&fontSize=50"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=내용입력&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=10A19D&height=200&section=header&text==hello sunok world🚀;&fontSize=90" />
 
 ##### import java.util.List;
 
