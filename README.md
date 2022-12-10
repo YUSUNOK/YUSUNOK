@@ -11,7 +11,7 @@
 <hr>
 
 # public class Yusunok🥰 {
-### - [private String introduce; // 자기소개](#-public-void-setintroducestring-introduce-) 
+### - [private String introduce; // 자기소개](#-public-void-setintroducestring-introduce) 
 ### - [private List<String> dreams; // 꿈](#-public-void-setdreamslist-dreams-)
 ### - [private String[] education; // 교육](#-public-void-seteducationstring-education-)
 ### - [private String[][] skills; // 기술](#-public-void-setskillsstring-skills-)
