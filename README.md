@@ -39,7 +39,7 @@
  		         `し´			                                                                  
     }
     
-### 📌 public void setDreams(List<String> dreams) {
+### 📌 public void setDreams(List\<String\> dreams) {
       this.dreams = dreams;
     }
     
@@ -59,7 +59,7 @@
       this.awards = awards;
     }
    
-### 📌 public void setProjects(List<String> projects) {
+### 📌 public void setProjects(List\<String\> projects) {
       this.projects = projects;
     }
 ## }
