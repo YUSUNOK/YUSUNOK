@@ -4,7 +4,7 @@
 
 # public class Yusunok🥰 {
 ### - private String introduce; // 자기소개
-### - private List<String> dreams; // 나의 꿈
+### - private List<String> dreams; // 꿈
 ### - private String[] education; // 교육 
 ### - private String[][] skills; // 기술
 ### - private String[] certificate; // 자격증
