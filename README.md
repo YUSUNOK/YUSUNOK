@@ -72,7 +72,25 @@
    //   myDream.add("그럼에도 커피보다는 운동을...(쿨럭) 좋아하는 개발자가 되는 것.");
       
      
-      
+[Backend] 
+java, jsp/servlet,python
+-spring 
+
+maven, mybatis, jstl
+
+
+[DBMS]
+oracle-oracle sql developer,mysql-workbench
+
+
+[front]
+html, css, javascript
+-bootstrap
+
+
+
+
+
 
 <!--
 **YUSUNOK/YUSUNOK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
