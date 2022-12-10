@@ -3,9 +3,9 @@
     <img src="https://capsule-render.vercel.app/api?type=rounded&color=50bcdf&height=200&section=header&text=Hello%20\'SUNOK\'%20world💻🚀;&fontSize=60" />
 </div>
 ##### import java.util.List;
-[제목](#제목heading)
+
 # public class Yusunok🥰 {
-### - [private String introduce; // 자기소개]
+### - [자기소개](#introduce)private String introduce; 
 ### - private List<String> dreams; // 꿈
 ### - private String[] education; // 교육 
 ### - private String[][] skills; // 기술
