@@ -3,10 +3,10 @@
     <img src="https://capsule-render.vercel.app/api?type=rounded&color=50bcdf&height=200&section=header&text=Hello%20\'SUNOK\'%20world💻🚀;&fontSize=60" />
 </div>
 																	         
-<div style="display:inline; align=center">Green day - Give me Novacaine🌙｀、、｀ヽ｀ヽ｀、、ヽヽ</div>
-<div style="display:inline; align=center">0:35 ━❍──────── -5:32ヽ｀、｀ヽ｀、ヽ｀｀、ヽ｀ヽ｀、ヽヽ</div>
-<div style="display:inline; align=center">↻     ⊲  Ⅱ  ⊳     ↺｀ヽ、ヽヽ｀ヽ｀、｀｀ヽ｀ヽ、ヽ、ヽ</div>
-<div style="display:inline; align=center">VOLUME: ▁▂▃▄▅▆▇ 100%  ヽ｀｀ヽ｀｀、ヽ｀、ヽ｀、🚶‍♀ ヽ｀</div>
+<div style="display:inline;">	Green day - Give me Novacaine</div>
+<div style="display:inline;">	0:35 ━❍──────── -5:32</div>
+<div style="display:inline;">	↻     ⊲  Ⅱ  ⊳     ↺</div>
+<div style="display:inline;">	VOLUME: ▁▂▃▄▅▆▇ 100%</div>
 
 <hr>
 
