@@ -21,9 +21,12 @@
 	
 	
 ### 📌 public void setIntroduce(String introduce) {
-####     		 this.introduce = 
-####				  "안녕하세요! 저는 백엔드 개발자를 꿈꾸는 유선옥입니다. " + 
-####				  " "
+     		 this.introduce = 
+				  "안녕하세요! 저는 백엔드 개발자를 꿈꾸는 유선옥입니다. " + 
+				  "인생의 갈림길에 서있을 적에 머리를 식힐 겸 선암사 여행을 갔습니다." +
+				  "집에 돌아오는 버스에 앉아있을 때까지만 해도 뚜렷한 답이 떠오르지 않았습니다." +
+				  "버스에 내리자마자 가로등에 파란 전단지가 보였습니다." + 
+				  ""
     }
     
 ### 📌 public void setDreams(List<String> dreams) {
