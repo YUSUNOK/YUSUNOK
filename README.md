@@ -11,31 +11,31 @@
 ##### private String[] Awards;
 ##### private List<String> projects;
     
-## 👍 public void setIntroduce(String introduce) {
+### 📌 public void setIntroduce(String introduce) {
       this.introduce = introduce;
     }
     
-## 👍 public void setDreams(List<String> dreams) {
+### 📌 public void setDreams(List<String> dreams) {
       this.dreams = dreams;
     }
     
-## 👍 public void setEducation(String[] education) {
+### 📌 public void setEducation(String[] education) {
       this.education = education;
     }
 
-## 👍 public void setSkills(String[][] skills) {
+### 📌 public void setSkills(String[][] skills) {
       this.skills = skills;
     }
 
-## 👍 public void setCertificate(String[] certificate) {
+### 📌 public void setCertificate(String[] certificate) {
       this.certificate = certificate;
     }
    
-## 👍 public void setAwards(String[] awards) {
+### 📌 public void setAwards(String[] awards) {
       Awards = awards;
     }
    
-## 👍 public void setProjects(List<String> projects) {
+### 📌 public void setProjects(List<String> projects) {
       this.projects = projects;
     }
 ## }
