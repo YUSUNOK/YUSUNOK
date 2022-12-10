@@ -3,6 +3,10 @@
     <img src="https://capsule-render.vercel.app/api?type=rounded&color=50bcdf&height=200&section=header&text=Hello%20\'SUNOK\'%20world💻🚀;&fontSize=60" />
 </div>
 
+									Green day - give me novacaine
+									0:10 ─────────────────── 4:02
+									⇆      ◁     ❚❚     ▷      ↻
+
 <hr>
 
 # public class Yusunok🥰 {
