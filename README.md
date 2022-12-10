@@ -1,4 +1,4 @@
-import java.util.List;
+##### import java.util.List;
 
 # public class Yusunok {
 ##### private String introduce;
@@ -10,16 +10,16 @@ import java.util.List;
 ##### private List<String> projects;
     
 ##### public String getIntroduce() {
-      return introduce;
-    }
-    public void setIntroduce(String introduce) {
-      this.introduce = introduce;
-    }
-    public List<String> getDreams() {
-      return dreams;
-    }
-    public void setDreams(List<String> dreams) {
-      this.dreams = dreams;
+##### return introduce;
+##### }
+##### public void setIntroduce(String introduce) {
+##### this.introduce = introduce;
+##### }
+##### public List<String> getDreams() {
+##### return dreams;
+##### }
+##### public void setDreams(List<String> dreams) {
+##### this.dreams = dreams;
     }
     public String[] getEducation() {
       return education;
