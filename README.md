@@ -237,7 +237,7 @@ Here are some ideas to get you started:
 	
 	
 	
-	- [제목](#제목heading)
+- [제목](#제목heading)
 - [선그리기](#선그리기)
 - [이탤릭체](#이탤릭체-)
 - [볼드체](#두꺼운-글씨)
