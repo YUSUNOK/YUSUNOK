@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=10A19D&height=200&section=header&text=print('🚀Hello%20\'Sunok\'%20world🚀')&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=10A19D&height=200&section=header&text=print('🚀Hello%20\'SUNOK\'%20world🚀')&fontSize=50" />
 
 ##### import java.util.List;
 
