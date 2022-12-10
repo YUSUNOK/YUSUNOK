@@ -35,7 +35,7 @@
     }
    
 ### 📌 public void setAwards(String[] awards) {
-      awards = awards;
+      this.awards = awards;
     }
    
 ### 📌 public void setProjects(List<String> projects) {
