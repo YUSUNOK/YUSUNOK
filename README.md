@@ -3,7 +3,7 @@
     <img src="https://capsule-render.vercel.app/api?type=rounded&color=50bcdf&height=200&section=header&text=Hello%20\'SUNOK\'%20world💻🚀;&fontSize=60" />
 </div>
 
-<div>
+
 # public class Yusunok🥰 {
 ### - [private String introduce; // 자기소개](#-public-void-setintroducestring-introduce-) 
 ### - private List<String> dreams; // 꿈
@@ -12,7 +12,8 @@
 ### - private String[] certificate; // 자격증
 ### - private String[] awards; // 수상
 ### - private List<String> projects; // 프로젝트
-</div>
+	
+	
 ### 📌 public void setIntroduce(String introduce) {
       this.introduce = introduce;
     }
