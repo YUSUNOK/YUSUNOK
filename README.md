@@ -2,11 +2,13 @@
 <div align=center>
     <img src="https://capsule-render.vercel.app/api?type=rounded&color=50bcdf&height=200&section=header&text=Hello%20\'SUNOK\'%20world💻🚀;&fontSize=60" />
 </div>
-																	         
-<div style="display:inline;">	Green day - Give me Novacaine</div>
-<div style="display:inline;">	0:35 ━❍──────── -5:32</div>
-<div style="display:inline;">	↻     ⊲  Ⅱ  ⊳     ↺</div>
-<div style="display:inline;">	VOLUME: ▁▂▃▄▅▆▇ 100%</div>
+
+### 📌 playing now...
+
+  	Green day - Give me Novacaine
+  	0:35 ━❍──────── -5:32
+   	↻     ⊲  Ⅱ  ⊳     ↺
+   	VOLUME: ▁▂▃▄▅▆▇ 100%
 
 <hr>
 
@@ -18,7 +20,6 @@
 ### - [private String[] certificate; // 자격증](#-public-void-setcertificatestring-certificate-)
 ### - [private String[] awards; // 수상](#-public-void-setawardsstring-awards-)
 ### - [private List<String> projects; // 프로젝트](#-public-void-setprojectslist-projects-)
-	
 	
 ### 📌 public void setIntroduce(String introduce)
     {
