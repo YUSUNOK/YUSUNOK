@@ -1,15 +1,15 @@
-##### import java.util.List;
+# import java.util.List;
 
-    public class Yusunok {
-    private String introduce;
-    private List<String> dreams;
-    private String[] education;
-    private String[][] skills;
-    private String[] certificate;
-    private String[] Awards;
-    private List<String> projects;
+# public class Yusunok {
+# private String introduce;
+# private List<String> dreams;
+# private String[] education;
+# private String[][] skills;
+# private String[] certificate;
+# private String[] Awards;
+# private List<String> projects;
     
-    public String getIntroduce() {
+# public String getIntroduce() {
       return introduce;
     }
     public void setIntroduce(String introduce) {
