@@ -3,7 +3,7 @@
     <img src="https://capsule-render.vercel.app/api?type=rounded&color=50bcdf&height=200&width=2000&section=header&text=Hello%20\'SUNOK\'%20world💻🚀;&fontSize=60" />
 </div>
 
-# 📌 playing now...
+# 📌 [playing now...](https://www.youtube.com/watch?v=ZKAwIwjHwZI)
 
   	Green day - Give me Novacaine
   	0:35 ━❍──────── -5:32
@@ -20,6 +20,7 @@
 - [private String[] certificate; // 자격증](#-public-void-setcertificatestring-certificate)
 - [private String[] awards; // 수상](#-public-void-setawardsstring-awards)
 - [private List\<String\> projects; // 프로젝트](#-public-void-setprojectsliststring-projects)
+
 
 <hr>
 
