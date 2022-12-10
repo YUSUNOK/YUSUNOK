@@ -15,8 +15,9 @@
 	
 	
 ### 📌 public void setIntroduce(String introduce) {
-      this.introduce = 
-	"안녕하세요! 저는 백엔드 개발자를 꿈꾸는 유선옥입니다. "
+     		 this.introduce = 
+				  "안녕하세요! 저는 백엔드 개발자를 꿈꾸는 유선옥입니다. " + 
+				  " "
     }
     
 ### 📌 public void setDreams(List<String> dreams) {
