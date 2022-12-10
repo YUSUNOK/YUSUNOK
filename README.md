@@ -3,13 +3,13 @@
 ##### import java.util.List;
 
 # public class Yusunok🥰 {
-### - private String introduce;
-### - private List<String> dreams;
-### - private String[] education;
-### - private String[][] skills;
-### - private String[] certificate;
-### - private String[] awards;
-### - private List<String> projects;
+### - private String introduce; // 자기소개
+### - private List<String> dreams; // 나의 꿈
+### - private String[] education; // 교육 
+### - private String[][] skills; // 기술
+### - private String[] certificate; // 자격증
+### - private String[] awards; // 수상
+### - private List<String> projects; // 프로젝트
     
 ### 📌 public void setIntroduce(String introduce) {
       this.introduce = introduce;
