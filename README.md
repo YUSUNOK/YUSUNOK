@@ -3,7 +3,7 @@
     <img src="https://capsule-render.vercel.app/api?type=rounded&color=50bcdf&height=200&width=2000&section=header&text=Hello%20\'SUNOK\'%20world💻🚀;&fontSize=60" />
 </div>
 
-# 📌 [playing now...](https://www.youtube.com/watch?v=ZKAwIwjHwZI)
+### 📌 [playing now...](https://www.youtube.com/watch?v=ZKAwIwjHwZI)
 
   	Green day - Give me Novacaine
   	0:35 ━❍──────── -5:32
@@ -12,7 +12,7 @@
 	
 <hr>
 
-# 📌 public class Yusunok {
+### 📌 public class Yusunok {
 - [private String introduce; // 자기소개](#-public-void-setintroducestring-introduce) 
 - [private List\<String\> dreams; // 꿈](#-public-void-setdreamsliststring-dreams)
 - [private String[] education; // 교육](#-public-void-seteducationstring-education)
@@ -24,7 +24,7 @@
 
 <hr>
 
-# 📌 public void setIntroduce(String introduce)
+### 📌 public void setIntroduce(String introduce)
     {
        	this.introduce = 
 			"안녕하세요! 저는 백엔드 개발자를 꿈꾸는 유선옥입니다. " + 
@@ -44,42 +44,42 @@
     
 <hr>    
     
-# 📌 public void setDreams(List\<String\> dreams) 
+### 📌 public void setDreams(List\<String\> dreams) 
     {
       	this.dreams = dreams;
     }
    
 <hr>
 
-# 📌 public void setEducation(String[] education)
+### 📌 public void setEducation(String[] education)
     {
         this.education = education;
     }
 
 <hr>
 
-# 📌 public void setSkills(String[][] skills) 
+### 📌 public void setSkills(String[][] skills) 
     {
         this.skills = skills;
     }
 
 <hr>
 
-# 📌 public void setCertificate(String[] certificate) 
+### 📌 public void setCertificate(String[] certificate) 
     {
         this.certificate = certificate;
     }
     
 <hr>
 
-# 📌 public void setAwards(String[] awards)
+### 📌 public void setAwards(String[] awards)
     {
         this.awards = awards;
     }
 
 <hr>
 
-# 📌 public void setProjects(List\<String\> projects)
+### 📌 public void setProjects(List\<String\> projects)
     {
         this.projects = projects;
     }
