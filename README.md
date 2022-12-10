@@ -45,44 +45,44 @@
     
 ### 📌 public void setDreams(List\<String\> dreams) 
     {
-      this.dreams = dreams;
+      	this.dreams = dreams;
     }
    
 <hr>
 
 ### 📌 public void setEducation(String[] education)
     {
-      this.education = education;
+        this.education = education;
     }
 
 <hr>
 
 ### 📌 public void setSkills(String[][] skills) 
     {
-      this.skills = skills;
+        this.skills = skills;
     }
 
 <hr>
 
 ### 📌 public void setCertificate(String[] certificate) 
     {
-      this.certificate = certificate;
+        this.certificate = certificate;
     }
     
 <hr>
 
 ### 📌 public void setAwards(String[] awards)
     {
-      this.awards = awards;
+        this.awards = awards;
     }
 
 <hr>
 
 ### 📌 public void setProjects(List\<String\> projects)
-   {
-      this.projects = projects;
-   }
-   
+    {
+        this.projects = projects;
+    }
+    
 
 
 
