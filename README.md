@@ -61,7 +61,10 @@
 
 ### 📌 public void setEducation(String[] education)
     {
-          this.education = education;
+            this.education = new String[2];
+               education[0] = "2019.07.01~2019.08.31(160시간) \'AI 기술활용 (기본)\' 정보통신산업진흥원";
+               education[1] = "2022.06.20~2022.12.14 \'빅데이터 분석서비스 개발자과정\' 스마트인재개발원";
+  
     }
 
 <hr>
