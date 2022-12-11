@@ -1,6 +1,6 @@
 
 <div align=center >
-    <img width="700" height="700" src="https://user-images.githubusercontent.com/107903342/206898415-eb95fb0b-22b1-4e9f-b79b-b32c7224f030.jpg" />
+    <img width="800" height="700" src="https://user-images.githubusercontent.com/107903342/206898415-eb95fb0b-22b1-4e9f-b79b-b32c7224f030.jpg" />
 </div>
 
 
@@ -66,6 +66,10 @@
                education[1] = "2022.06.20~2022.12.14 \'빅데이터 분석서비스 개발자과정\' 스마트인재개발원";
   
     }
+<div>
+    <img width="300" height="300" src="https://user-images.githubusercontent.com/107903342/206899758-c8f88b61-53f0-4b58-b461-8ebebcbdb6ac.png" />
+</div>
+ 
 
 <hr>
 
