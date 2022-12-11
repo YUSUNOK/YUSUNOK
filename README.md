@@ -3,9 +3,11 @@
     <img src="https://capsule-render.vercel.app/api?type=rounded&color=50bcdf&height=200&width=2000&section=header&text=Hello%20world💻🚀;&fontSize=60" />
 </div>
 
+<div align=center >
+    <img width="800" height="800" src="https://user-images.githubusercontent.com/107903342/206898112-ae675fa0-6552-4283-aa89-bf4fa0cd6a3e.jpg" />
+</div>
 
 
-![header](https://user-images.githubusercontent.com/107903342/206897928-de38242c-42df-4c15-8767-d097c97a3a63.jpg)
 
 
 
