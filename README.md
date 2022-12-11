@@ -5,8 +5,9 @@
 
 
 
+![header](https://user-images.githubusercontent.com/107903342/206897928-de38242c-42df-4c15-8767-d097c97a3a63.jpg)
 
-![제목을-입력해주세요_-001 (1)](https://user-images.githubusercontent.com/107903342/206890409-5ab06fb6-3a2c-440d-8e47-350470393e7f.jpg)
+
 
 
 ### 📌 [playing now...](https://www.youtube.com/watch?v=ZKAwIwjHwZI)
