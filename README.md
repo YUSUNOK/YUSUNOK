@@ -1,13 +1,7 @@
 
-<div align=center>
-    <img src="https://capsule-render.vercel.app/api?type=rounded&color=50bcdf&height=200&width=2000&section=header&text=Hello%20world💻🚀;&fontSize=60" />
-</div>
-
 <div align=center >
-    <img width="800" height="800" src="https://user-images.githubusercontent.com/107903342/206898112-ae675fa0-6552-4283-aa89-bf4fa0cd6a3e.jpg" />
+    <img width="700" height="700" src="https://user-images.githubusercontent.com/107903342/206898415-eb95fb0b-22b1-4e9f-b79b-b32c7224f030.jpg" />
 </div>
-
-
 
 
 
