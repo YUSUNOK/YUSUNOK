@@ -12,7 +12,7 @@
 - [blog](https://helloryuitworld.tistory.com/)
 - [github](https://github.com/YUSUNOK)
 - sunokryu319@gmail.com
-- 010-2315-9523
+- [tel](010-2315-9523)
 - Seoul
 
 
