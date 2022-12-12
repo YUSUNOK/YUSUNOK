@@ -101,7 +101,7 @@
 	
 <br>
 	
-// spring
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 	
 <br>
 	
@@ -109,8 +109,8 @@
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 	
 <br>
-	
-//tomcat, nginx
+<img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">	
+// nginx
 	
 <br>
 	
