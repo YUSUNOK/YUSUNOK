@@ -6,7 +6,7 @@
 
 
 
-### 📌 [playing now...](https://www.youtube.com/watch?v=ZKAwIwjHwZI)
+### 👉 [playing now...](https://www.youtube.com/watch?v=ZKAwIwjHwZI)
 
   	Green day - Give me Novacaine
   	0:35 ━❍──────── -5:32
@@ -15,7 +15,7 @@
 	
 <hr>
 
-### 📌 public class Yusunok {
+### 👉 public class Yusunok {
 - [private String introduce; // 자기소개](#-public-void-setintroducestring-introduce) 
 - [private List\<String\> dreams; // 꿈](#-public-void-setdreamsliststring-dreams)
 - [private String[] education; // 교육](#-public-void-seteducationstring-education)
@@ -27,7 +27,7 @@
 
 <hr>
 
-### 📌 public void setIntroduce(String introduce)
+### 👉 public void setIntroduce(String introduce)
     {
        	this.introduce = 
 		   "안녕하세요! 저는 백엔드 개발자를 꿈꾸는 유선옥입니다. " + 
@@ -47,7 +47,7 @@
     
 <hr>    
     
-### 📌 public void setDreams(List\<String\> dreams) 
+### 👉public void setDreams(List\<String\> dreams) 
     {
       	this.dreams = new ArrayList<String>();
 		   myDream.add("새로운 것을 스펀지처럼 습득하여 활용하는 백엔드 개발자가 되는 것.");
@@ -60,7 +60,7 @@
    
 <hr>
 
-### 📌 public void setEducation(String[] education)
+### 👉 public void setEducation(String[] education)
     {
             this.education = new String[2];
                education[0] = "2019.07.01~2019.08.31(160시간) \'AI 기술활용 (기본)\' 정보통신산업진흥원";
@@ -74,7 +74,7 @@
 
 <hr>
 
-### 📌 public void setPlatforms & Languages & Tools(String[] Platforms & Languages & Tools) 
+### 👉 public void setPlatforms & Languages & Tools(String[] Platforms & Languages & Tools) 
     {
         this.skills = new String["java", "python", "javascript", "flask",
 				     "jquery", "ajax", "json", "mybatis", "maven",
@@ -112,7 +112,7 @@
 <br>
 	
 
-### 📌 public void setCertificate(String[] certificate) 
+### 👉 public void setCertificate(String[] certificate) 
     {
         this.certificate = new String["2022.12.02 SQLD 한국데이터산업진흥원"];
     }
@@ -125,14 +125,14 @@
 
 <hr>
 
-### 📌 public void setAwards(String[] awards)
+### 👉 public void setAwards(String[] awards)
     {
         this.awards = awards;
     }
 
 <hr>
 
-### 📌 public void setProjects(List\<String\> projects)
+### 👉 public void setProjects(List\<String\> projects)
     {
         this.projects = projects;
     }
