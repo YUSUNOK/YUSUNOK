@@ -98,10 +98,12 @@
     <img width="200" height="280" src="https://user-images.githubusercontent.com/107903342/206899758-c8f88b61-53f0-4b58-b461-8ebebcbdb6ac.png" />
 </div>
 
- - AI 기술 활용 (기본) 과정을 수강했을 땐 파이썬의 기초문법도 모른 채로 수강했기 때문에 따라가는 것조차 버거웠어요 😢
+ - /* AI 기술 활용 (기본) 과정을 수강했을 땐 파이썬의 기초문법도 모른 채로 수강했기 때문에 따라가는 것조차 버거웠어요 😢
  - 오기가 생겨서 약 2달동안 오고가는 지하철에서 노트북을 켜서 파이썬 기본 문법을 공부했었던 기억이 납니다.
- - 후에 빅데이터 분석서비스 개발자과정에서 다시 접했을 땐 열심히 수업에 따라간 덕분에 어렵지 않게 수강했습니다.
-                        			
+ - 후에 빅데이터 분석서비스 개발자과정에서 다시 접했을 땐 열심히 수업에 따라간 덕분에 어렵지 않게 수강했습니다. */
+            
+  	    
+	    
 
  
  
@@ -165,7 +167,7 @@
      <img width="200" height="280" src="https://user-images.githubusercontent.com/107903342/206991350-d1fd4282-0b38-443d-ac67-43e057fb3aad.jpg" />
 </div>
 
-// RDBMS를 제어하는 언어를 통해 데이터를 CRUD하는게 재밌어서 흥미가 생겼어요 ! 
+- // RDBMS를 제어하는 언어를 통해 데이터를 CRUD하는게 재밌어서 흥미가 생겼어요 ! 
 
 <br>  
   
@@ -228,10 +230,6 @@
 
 
 
-<!--
-**YUSUNOK/YUSUNOK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
