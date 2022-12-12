@@ -11,6 +11,7 @@
 - [저](#-public-class-yusunok-)를 눌러볼래요?
 - 궁금한 속성을 누르면 해당 정보가 보여요
 - [노래](https://www.youtube.com/watch?v=ZKAwIwjHwZI)와 함께 찬찬히 둘러봐주세요!
+- [저를 더 알아보고 싶으시다면?]()
 
 ### 👉 Contact to me!
 - blog : [blog](https://helloryuitworld.tistory.com/)
