@@ -46,13 +46,12 @@
    "운명과 같이 버스에 내리자마자 가로등에 IT를 무료로 배울 기회를 준다는 전단지가 눈에 띄었습니다." +   
    "\'아...! 이거다 . 이건 다시 나에게 돌아오지 않을 기회다.\'라고 생각한 저는 당장 신청을 했고..." +  
    "그렇게 점점 개발에 스며들었고..." +  
-   "우리의 인연이 시작되었답니다....🥰";  
-	
-		   ˚∧＿∧  　+        —̳͟͞͞💗
-		   (  •‿• )つ  —̳͟͞͞ 💗         —̳͟͞͞💗 +
-		   (つ　 <                —̳͟͞͞💗
-		   ｜　 _つ      +  —̳͟͞͞💗         —̳͟͞͞💗 ˚
- 	            `し´			                                                                  
+   "우리의 인연이 시작되었답니다....🥰";    
+		   ˚∧＿∧  　+        —̳͟͞͞💗  
+		   (  •‿• )つ  —̳͟͞͞ 💗         —̳͟͞͞💗 +  
+		   (つ　 <                —̳͟͞͞💗  
+		   ｜　 _つ      +  —̳͟͞͞💗         —̳͟͞͞💗 ˚  
+ 	            `し´  		    
 ## [}](#-public-class-yusunok-)
 
 ## 👉public void setDreams(List\<String\> dreams){
@@ -66,19 +65,18 @@
 ## [}](#-public-class-yusunok-)
 	
 ## 👉public void setEducation(String[] education){
- #### this.education = new String\[3\];  
-   education\[0\] = "2019.07.01-2019.08.31(160시간) \'AI 기술활용 (기본)\' 정보통신산업진흥원";    
-   education\[1\] = "2022.06.20-2022.12.14 \'빅데이터 분석서비스 개발자과정\' 스마트인재개발원";  
-   education\[2\] = "2022.12.14~ \'복습 및 개인공부 블로그에 포스팅하기\' ";  
-
-
+ #### this.education = new String\[3\];    
+   education\[0\] = "2019.07.01-2019.08.31(160시간) \'AI 기술활용 (기본)\' 정보통신산업진흥원";      
+   education\[1\] = "2022.06.20-2022.12.14 \'빅데이터 분석서비스 개발자과정\' 스마트인재개발원";    
+   education\[2\] = "2022.12.14- \'복습 및 개인공부 블로그에 포스팅하기\' ";    
 <div>
     <img width="200" height="280" src="https://user-images.githubusercontent.com/107903342/206899758-c8f88b61-53f0-4b58-b461-8ebebcbdb6ac.png" />
 </div>
-  /* AI 기술 활용 (기본) 과정을 수강했을 땐 파이썬의 기초문법도 모른 채로 수강했기 때문에 따라가는 것조차 버거웠어요 😢      
- 오기가 생겨서 약 2달동안 오고가는 지하철에서 노트북을 켜서 파이썬 기본 문법을 공부했었던 기억이 납니다.      
- 후에 빅데이터 분석서비스 개발자과정에서 다시 접했을 땐 열심히 수업에 따라간 덕분에 어렵지 않게 수강했습니다. */      
-            
+
+  /* AI 기술 활용 (기본) 과정을 수강했을 땐 파이썬의 기초문법도 모른 채로 수강했기 때문에 따라가는 것조차 버거웠어요 😢        
+ 오기가 생겨서 약 2달동안 오고가는 지하철에서 노트북을 켜서 파이썬 기본 문법을 공부했었던 기억이 납니다.        
+ 후에 빅데이터 분석서비스 개발자과정에서 다시 접했을 땐 열심히 수업에 따라간 덕분에 어렵지 않게 수강했습니다. */  
+ ## [}](#-public-class-yusunok-)           
   	    
 	    
 
@@ -90,18 +88,18 @@
 
 
 
-### 👉 public void setPlatforms & Languages & Tools(String[] Platforms & Languages & Tools) 
-    {
-        this.skills = new String["java", "python", "javascript", "html5", "css3",
-				     "jquery", "ajax", "json", "mybatis", "maven",
-				     "spring", "flask", "bootstrap",
-				     "oracle", "mysql",
-				     "tomcat", "nginx",
-				     "elipse ide", "VScode", 
-				     "colab", "jypyter notebook",
-			             "github",
-				     "windows", "ubuntu"];
-     }
+## 👉 public void setPlatforms & Languages & Tools(String[] Platforms & Languages & Tools) {
+ #### this.skills = new String[  
+ 			       "java", "python", "javascript", "html5", "css3",  
+			       "jquery", "ajax", "json", "mybatis", "maven",  
+			       "spring", "flask", "bootstrap",  
+			       "oracle", "mysql",  
+			       "tomcat", "nginx",  
+			       "elipse ide", "VScode",   
+			       "colab", "jypyter notebook",  
+			       "github",  
+			       "windows", "ubuntu"];  
+
 <div align="left">
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />	
@@ -129,11 +127,10 @@
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white" />
 </div>
 
+ ## [}](#-public-class-yusunok-)  
 
 
 
-<hr>
-	
 ### 👉 public void setCertificate(String[] certificate) 
     {
         this.certificate = new String["2022.12.02 SQLD 한국데이터산업진흥원"];
