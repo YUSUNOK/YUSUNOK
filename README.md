@@ -179,9 +179,17 @@
 
 ### 👉 public void setAwards(String[] awards)
     {
-        this.awards = awards;
+        this.awards = new String["Kaggle 전자 상거래 물품 배송 예측(분류) 대회/최우수상/스마트인재개발원", "감각기계 데이터1 인공지능 개발 경진대회/최우수상/"];
     }
+   
+   
+
+<div>
+    <img width="200" height="280" src="https://user-images.githubusercontent.com/107903342/206998413-2b7920a9-d085-47c6-be7f-61e396fcd96a.png" />
     
+</div>
+
+
     
     
 [목록이 뭐였더라..!?](#-public-class-yusunok-)  
