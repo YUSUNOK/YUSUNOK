@@ -77,25 +77,21 @@
 ### 📌 public void setSkills(String[][] skills) 
     {
         this.skills = new String[][];
-[backend]
-- java, javascript
-- jsp/servlet
-- spring
-- oracle, mysql
-- Apache, nginx
-	.
-	.
-	.
-[frontend]
-- html, css, javascript
-- bootstrap
 
+java, jsp servlet, python, javascript
+maven, mybatis, flask
+spring
+oracle, mysql
+톰캣, ngingx
+window, Linux
+eclipse ide, google colab, jupyter notebook
+--------------------
+html css 
+bootstrap
+visual studio code
+-------------------
+github
 
-[다뤄본 환경]
-- OS : Window, ubuntu
-- IDE : Eclipse, VisualStudioCode
-- 형상관리 : Github
-- 문서관리 : Google 공유 드라이브
 
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
