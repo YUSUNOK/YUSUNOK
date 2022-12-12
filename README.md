@@ -73,22 +73,25 @@
  
 
 <hr>
-
+<img src="https://img.shields.io/badge/{내용}-{배경 색깔}?style={스타일}&logo={로고이름}&logoColor={로고 색깔}"/>
 ### 📌 public void setPlatforms & Languages & Tools(String[] Platforms & Languages & Tools) 
     {
         this.skills = new String["java", "python", "javascript", 
+				     "ajax", "json", "mybatis", "maven",
 				     "spring", 
 				     "oracle sql", "mysql",
 				     "tomcat", "nginx",
 				     "elipse ide", "VScode", 
 				     "colab", "jypyter notebook",
 			             "github"];
+<img src="https://img.shields.io/badge/java-red?style=for-the-badge&logo=appveyor&logo={로고이름}&logoColor={로고 색깔}"/>
 	
 <div align="center">
 	<img src="https://img.shields.io/badge/java-007396?style=flat&logo=Conda-Forge&logoColor=red" />
 	<img src="https://img.shields.io/badge/python-007396?style=flat&logo=Conda-Forge&logoColor=orange" />
-	
-	
+	--
+	<img src="https://img.shields.io/badge/{내용}-{배경 색깔}?style={스타일}&logo={로고이름}&logoColor={로고 색깔}"/>
+	--
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
