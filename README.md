@@ -1,6 +1,3 @@
-
-
-
 <div align=left>
     <img align=left src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=😎HELLO\'SUNOK\'WORLD😎&fontSize=60" />
     <img width="855" height="650" src="https://user-images.githubusercontent.com/107903342/206977176-0f0446cf-77ae-4d5c-9600-46c851454574.jpg" />
@@ -22,30 +19,26 @@
 - tel : 010-2315-9523
 - region :  Seoul
 
-
 ## 👉 [playing now...](https://www.youtube.com/watch?v=ZKAwIwjHwZI)
 
   	Green day - Give me Novacaine
   	0:00 ❍───────── -3:25
    	↻     ⊲  Ⅱ  ⊳     ↺
    	VOLUME: ▁▂▃▄▅▆▇ 100%
-	
-<hr>
+
 
 ## 👉 public class Yusunok {
-- [private String introduce; // 자기소개](#-public-void-setintroducestring-introduce) 
-- [private List\<String\> dreams; // 꿈](#public-void-setdreamsliststring-dreams)
-- [private String[] education; // 교육](#-public-void-seteducationstring-education)
-- [private String[] Platforms & Languages & Tools; // 주요 사용 언어 및 플랫폼](#-public-void-setplatforms--languages--toolsstring-platforms--languages--tools)
-- [private String[] certificate; // 자격증](#-public-void-setcertificatestring-certificate)
-- [private String[] awards; // 수상](#-public-void-setawardsstring-awards)
-- [private List\<String\> projects; // 프로젝트](#-public-void-setprojectsliststring-projects)
+ [private String introduce; // 자기소개](#-public-void-setintroducestring-introduce)   
+ [private List\<String\> dreams; // 꿈](#public-void-setdreamsliststring-dreams)  
+ [private String[] education; // 교육](#-public-void-seteducationstring-education)  
+ [private String[] Platforms & Languages & Tools; // 주요 사용 언어 및 플랫폼](#-public-void-setplatforms--languages--toolsstring-platforms--languages--tools)  
+ [private String[] certificate; // 자격증](#-public-void-setcertificatestring-certificate)  
+ [private String[] awards; // 수상](#-public-void-setawardsstring-awards)  
+ [private List\<String\> projects; // 프로젝트](#-public-void-setprojectsliststring-projects)  
 
 
-<hr>
 
-### 👉 public void setIntroduce(String introduce){
-    
+## 👉 public void setIntroduce(String introduce){
  #### this.introduce = 
    "안녕하세요! 저는 백엔드 개발자를 꿈꾸는 유선옥입니다. " +  
    "인생의 갈림길에 서있을 적에 머리를 식힐 겸 선암사 여행을 갔습니다." +  
@@ -60,49 +53,28 @@
 		   (つ　 <                —̳͟͞͞💗
 		   ｜　 _つ      +  —̳͟͞͞💗         —̳͟͞͞💗 ˚
  	            `し´			                                                                  
-### [}](#-public-class-yusunok-)
-    
-    
-    
+## [}](#-public-class-yusunok-)
 
-
-
-<hr>    
-
-    
-### 👉public void setDreams(List\<String\> dreams){
-
- #### this.dreams = new ArrayList<String>();  
+## 👉public void setDreams(List\<String\> dreams){
+ #### this.dreams = new ArrayList\<String\>();  
    myDream.add("새로운 것을 스펀지처럼 습득하여 활용하는 백엔드 개발자가 되는 것.");  
    myDream.add("더 나아가 회사에 이윤을 높히는 데 기여 하는 것.");  
    myDream.add("소통과 협업능력이 좋은 개발자가 되는 것.");  
    myDream.add("코딩에 푹 빠진 열정적인 개발자가 되는 것.");  
    myDream.add("개인적으로 존경하는 개발자분을 닮기 위해 부단히 노력하는 것.");  
    myDream.add("그럼에도 커피보다는 운동을...(쿨럭) 좋아하는 개발자가 되는 것.");  
+## [}](#-public-class-yusunok-)
 	
-### [}](#-public-class-yusunok-)
-    
-    
-    
-[목록이 뭐였더라..!?](#-public-class-yusunok-) 
+## 👉public void setEducation(String[] education){
+ #### this.education = new String\[3\];  
+   education\[0\] = "2019.07.01-2019.08.31(160시간) \'AI 기술활용 (기본)\' 정보통신산업진흥원";    
+   education\[1\] = "2022.06.20-2022.12.14 \'빅데이터 분석서비스 개발자과정\' 스마트인재개발원";  
+   education\[2\] = "2022.12.14~ \'복습 및 개인공부 블로그에 포스팅하기\' ";  
 
 
-<hr>
-
-
-### 👉 public void setEducation(String[] education)
-    {
-            this.education = new String[3];
-               education[0] = "2019.07.01~2019.08.31(160시간) \'AI 기술활용 (기본)\' 정보통신산업진흥원";
-               education[1] = "2022.06.20~2022.12.14 \'빅데이터 분석서비스 개발자과정\' 스마트인재개발원";
-	           education[2] = "2022.12.14~ \'복습 및 개인공부 블로그에 포스팅하기\' ";
-    }
 <div>
     <img width="200" height="280" src="https://user-images.githubusercontent.com/107903342/206899758-c8f88b61-53f0-4b58-b461-8ebebcbdb6ac.png" />
 </div>
-
-<br>
-
   /* AI 기술 활용 (기본) 과정을 수강했을 땐 파이썬의 기초문법도 모른 채로 수강했기 때문에 따라가는 것조차 버거웠어요 😢      
  오기가 생겨서 약 2달동안 오고가는 지하철에서 노트북을 켜서 파이썬 기본 문법을 공부했었던 기억이 납니다.      
  후에 빅데이터 분석서비스 개발자과정에서 다시 접했을 땐 열심히 수업에 따라간 덕분에 어렵지 않게 수강했습니다. */      
@@ -113,10 +85,10 @@
  
  
  
-[목록이 뭐였더라..!?](#-public-class-yusunok-) 
 
 
-<hr>
+
+
 
 ### 👉 public void setPlatforms & Languages & Tools(String[] Platforms & Languages & Tools) 
     {
@@ -158,7 +130,7 @@
 </div>
 
 
-[목록이 뭐였더라..!?](#-public-class-yusunok-) 
+
 
 <hr>
 	
