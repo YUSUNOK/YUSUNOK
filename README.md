@@ -179,7 +179,8 @@
 
 ### 👉 public void setAwards(String[] awards)
     {
-        this.awards = new String["Kaggle 전자 상거래 물품 배송 예측(분류) 대회/최우수상/스마트인재개발원", "감각기계 데이터1 인공지능 개발 경진대회/최우수상/"];
+        this.awards = new String["Kaggle 전자 상거래 물품 배송 예측(분류) 대회/최우수상/스마트인재개발원",
+				      "감각기계 데이터1 인공지능 개발 경진대회/최우수상/"];
     }
    
    
