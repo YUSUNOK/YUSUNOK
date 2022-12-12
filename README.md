@@ -18,7 +18,7 @@
 - github :  [github](https://github.com/YUSUNOK)
 - email : [email](sunokryu319@gmail.com)
 - tel : 010-2315-9523
-- Region :  Seoul
+- region :  Seoul
 
 
 ### 👉 [playing now...](https://www.youtube.com/watch?v=ZKAwIwjHwZI)
