@@ -109,7 +109,14 @@
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white" />
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white" />
 </div>
-<br>
+
+
+[frontend]
+html css 
+bootstrap
+visual studio code
+
+<hr>
 	
 
 ### 👉 public void setCertificate(String[] certificate) 
