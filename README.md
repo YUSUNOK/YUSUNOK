@@ -201,14 +201,8 @@ Here are some ideas to get you started:
     
     
     
-<div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Yermi%20Github!&fontSize=90" />	
-</div>
 
-<br>
-<div align=center>
-	<p>🎨 SNS & Portfolio 🎨</p>
-</div>
+
 <div align=center>
 	<a href="https://yermi.co.kr">
 		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
