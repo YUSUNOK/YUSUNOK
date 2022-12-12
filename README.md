@@ -7,7 +7,14 @@
 </div>
 
 
-
+<div>
+<h1>Contact to me!</h1>
+- [blog](https://helloryuitworld.tistory.com/)
+- [github]()
+- [tel] 010-2315-9523
+- [mail] sunokryu319@gmail.com
+- [region] Seoul
+</div>
 
 ### 👉 [playing now...](https://www.youtube.com/watch?v=ZKAwIwjHwZI)
 
@@ -65,11 +72,13 @@
 
 ### 👉 public void setEducation(String[] education)
     {
-            this.education = new String[2];
+            this.education = new String[3];
                education[0] = "2019.07.01~2019.08.31(160시간) \'AI 기술활용 (기본)\' 정보통신산업진흥원";
                education[1] = "2022.06.20~2022.12.14 \'빅데이터 분석서비스 개발자과정\' 스마트인재개발원";
-  
+	           education[2] = "2022.12.14~ \'복습 및 개인공부 블로그에 포스팅하기\' ";
     }
+
+                        			
 <div>
     <img width="200" height="280" src="https://user-images.githubusercontent.com/107903342/206899758-c8f88b61-53f0-4b58-b461-8ebebcbdb6ac.png" />
 </div>
