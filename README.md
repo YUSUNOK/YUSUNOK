@@ -1,7 +1,7 @@
 
-<img align=center src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=~Hello%20world👋~&fontSize=90" />
-<div align=center >
-    <img width="800" height="700" src="https://user-images.githubusercontent.com/107903342/206898415-eb95fb0b-22b1-4e9f-b79b-b32c7224f030.jpg" />
+<img align=left src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=\'SUNOK\'%20world👋~&fontSize=80" />
+<div align=left >
+    <img width="850" height="700" src="https://user-images.githubusercontent.com/107903342/206898415-eb95fb0b-22b1-4e9f-b79b-b32c7224f030.jpg" />
 </div>
 
 
@@ -18,7 +18,7 @@
 
 ### 👉 public class Yusunok {
 - [private String introduce; // 자기소개](#-public-void-setintroducestring-introduce) 
-- [private List\<String\> dreams; // 꿈](#-public-void-setdreamsliststring-dreams)
+- [private List\<String\> dreams; // 꿈](#public-void-setdreamsliststring-dreams)
 - [private String[] education; // 교육](#-public-void-seteducationstring-education)
 - [private String[] Platforms & Languages & Tools; // 주요 사용 언어 및 플랫폼](#-public-void-setplatforms--languages--toolsstring-platforms--languages--tools)
 - [private String[] certificate; // 자격증](#-public-void-setcertificatestring-certificate)
