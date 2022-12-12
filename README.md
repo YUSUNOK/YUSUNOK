@@ -76,17 +76,19 @@
 
 ### 📌 public void setPlatforms & Languages & Tools(String[] Platforms & Languages & Tools) 
     {
-        this.skills = new String["java", "python", "javascript", "spring", "oracle sql", "mysql", "tomcat", "nginx", "elipse ide", "VScode", "colab", "jypyter notebook", "github"];
+        this.skills = new String["java", "python", "javascript", 
+				     "spring", 
+				     "oracle sql", "mysql",
+				     "tomcat", "nginx",
+				     "elipse ide", "VScode", 
+				     "colab", "jypyter notebook",
+			             "github"];
 	
-
-
-
-
-<div align=center>
-	<h3>📚 Tech Stack 📚</h3>
-	<p>✨ Platforms & Languages ✨</p>
-</div>
 <div align="center">
+	<img src="https://img.shields.io/badge/java-007396?style=flat&logo=Conda-Forge&logoColor=red" />
+	<img src="https://img.shields.io/badge/python-007396?style=flat&logo=Conda-Forge&logoColor=orange" />
+	
+	
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
