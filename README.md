@@ -7,9 +7,10 @@
 </div>
 
 # ❓Readme 사용법
-- Yusunok 객체형태로 저를 표현해 봤어요 !
+- Yusunok 객체형태로 저를 표현해 봤어요
 - [저]()를 눌러볼래요?
-
+- 궁금한 속성을 누르면 해당 정보가 보여요
+- 노래와 함께 찬찬히 둘러봐주세요!
 
 ### 👉 Contact to me!
 - blog : [blog](https://helloryuitworld.tistory.com/)
