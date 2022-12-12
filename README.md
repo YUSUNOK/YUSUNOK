@@ -7,14 +7,14 @@
 </div>
 
 
-<div>
-<h1>Contact to me!</h1>
+
+### 👉 Contact to me!
 - [blog](https://helloryuitworld.tistory.com/)
-- [github]()
-- [tel] 010-2315-9523
-- [mail] sunokryu319@gmail.com
-- [region] Seoul
-</div>
+- [github](https://github.com/YUSUNOK)
+- sunokryu319@gmail.com
+- 010-2315-9523
+- Seoul
+
 
 ### 👉 [playing now...](https://www.youtube.com/watch?v=ZKAwIwjHwZI)
 
