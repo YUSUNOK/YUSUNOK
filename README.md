@@ -76,7 +76,7 @@
 
 ### 📌 public void setPlatforms & Languages & Tools(String[] Platforms & Languages & Tools) 
     {
-        this.skills = new String["Java", "python", "javascript", "spring", "oracle sql", "mysql", "tomcat", "nginx", "elipse ide", "VScode", "colab", "jypyter notebook", "github"];
+        this.skills = new String["java", "python", "javascript", "spring", "oracle sql", "mysql", "tomcat", "nginx", "elipse ide", "VScode", "colab", "jypyter notebook", "github"];
 	
 
 
