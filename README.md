@@ -24,7 +24,7 @@
 ### 👉 [playing now...](https://www.youtube.com/watch?v=ZKAwIwjHwZI)
 
   	Green day - Give me Novacaine
-  	0:35 ━❍──────── -5:32
+  	0:00 ❍───────── -3:25
    	↻     ⊲  Ⅱ  ⊳     ↺
    	VOLUME: ▁▂▃▄▅▆▇ 100%
 	
