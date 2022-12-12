@@ -114,7 +114,7 @@
 
 ### 📌 public void setCertificate(String[] certificate) 
     {
-        this.certificate = new String["SQLD "];
+        this.certificate = new String["2022.12.02 SQLD 한국데이터산업진흥원"];
     }
     
 <div>
