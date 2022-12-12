@@ -59,7 +59,11 @@
 		   ｜　 _つ      +  —̳͟͞͞💗         —̳͟͞͞💗 ˚
  	            `し´			                                                                  
     }
-[목록을 보고싶어요!](#-public-class-yusunok-)  
+    
+    
+[목록이 뭐였더라..!?](#-public-class-yusunok-) 
+
+
 <hr>    
 
     
@@ -73,7 +77,11 @@
                myDream.add("개인적으로 존경하는 개발자분을 닮기 위해 부단히 노력하는 것.");
                myDream.add("그럼에도 커피보다는 운동을...(쿨럭) 좋아하는 개발자가 되는 것.");
     }
-[목록을 보고싶어요!](#-public-class-yusunok-)   
+    
+    
+[목록이 뭐였더라..!?](#-public-class-yusunok-) 
+
+
 <hr>
 
 
@@ -90,7 +98,10 @@
     <img width="200" height="280" src="https://user-images.githubusercontent.com/107903342/206899758-c8f88b61-53f0-4b58-b461-8ebebcbdb6ac.png" />
 </div>
  
-[목록을 보고싶어요!](#-public-class-yusunok-)  
+ 
+[목록이 뭐였더라..!?](#-public-class-yusunok-) 
+
+
 <hr>
 
 ### 👉 public void setPlatforms & Languages & Tools(String[] Platforms & Languages & Tools) 
@@ -132,7 +143,9 @@
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white" />
 </div>
 
-[목록을 보고싶어요!](#-public-class-yusunok-)  
+
+[목록이 뭐였더라..!?](#-public-class-yusunok-) 
+
 <hr>
 	
 ### 👉 public void setCertificate(String[] certificate) 
@@ -148,14 +161,20 @@
 
   
    
-[목록을 보고싶어요!](#-public-class-yusunok-)  
+[목록이 뭐였더라..!?](#-public-class-yusunok-)  
+
+
 <hr>
 
 ### 👉 public void setAwards(String[] awards)
     {
         this.awards = awards;
     }
-[목록을 보고싶어요!](#-public-class-yusunok-)  
+    
+    
+[목록이 뭐였더라..!?](#-public-class-yusunok-)  
+
+
 <hr>
 
 ### 👉 public void setProjects(List\<String\> projects)
@@ -193,8 +212,7 @@
 
 
 
-[목록을 보고싶어요!](#-public-class-yusunok-)  
-
+[목록이 뭐였더라..!?](#-public-class-yusunok-) 
 
 
 
