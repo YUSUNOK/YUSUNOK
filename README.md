@@ -6,22 +6,23 @@
     <img width="855" height="650" src="https://user-images.githubusercontent.com/107903342/206977176-0f0446cf-77ae-4d5c-9600-46c851454574.jpg" />
 </div>
 
-# ❓Readme 사용법
+## ❓Readme 사용법
+
 - 자바 객체형태로 저를 표현해 봤어요
 - [저](#-public-class-yusunok-)를 눌러볼래요?
 - 궁금한 속성을 누르면 해당 정보가 보여요
 - [노래](https://www.youtube.com/watch?v=ZKAwIwjHwZI)와 함께 찬찬히 둘러봐주세요!
 - [저를 더 알아보고 싶으시다면?](#-contact-to-me)
 
-### 👉 Contact to me!
-- blog : [blog](https://helloryuitworld.tistory.com/)
-- github :  [github](https://github.com/YUSUNOK)
-- email : [email](sunokryu319@gmail.com)
-- tel : 010-2315-9523
-- region :  Seoul
+## 👉 Contact to me!
+- #### blog : [blog](https://helloryuitworld.tistory.com/)
+- #### github :  [github](https://github.com/YUSUNOK)
+- #### email : [email](sunokryu319@gmail.com)
+- #### tel : 010-2315-9523
+- #### region :  Seoul
 
 
-### 👉 [playing now...](https://www.youtube.com/watch?v=ZKAwIwjHwZI)
+## 👉 [playing now...](https://www.youtube.com/watch?v=ZKAwIwjHwZI)
 
   	Green day - Give me Novacaine
   	0:00 ❍───────── -3:25
@@ -30,35 +31,35 @@
 	
 <hr>
 
-### 👉 public class Yusunok {
-- [private String introduce; // 자기소개](#-public-void-setintroducestring-introduce) 
-- [private List\<String\> dreams; // 꿈](#public-void-setdreamsliststring-dreams)
-- [private String[] education; // 교육](#-public-void-seteducationstring-education)
-- [private String[] Platforms & Languages & Tools; // 주요 사용 언어 및 플랫폼](#-public-void-setplatforms--languages--toolsstring-platforms--languages--tools)
-- [private String[] certificate; // 자격증](#-public-void-setcertificatestring-certificate)
-- [private String[] awards; // 수상](#-public-void-setawardsstring-awards)
-- [private List\<String\> projects; // 프로젝트](#-public-void-setprojectsliststring-projects)
+## 👉 public class Yusunok {
+- #### [private String introduce; // 자기소개](#-public-void-setintroducestring-introduce) 
+- #### [private List\<String\> dreams; // 꿈](#public-void-setdreamsliststring-dreams)
+- #### [private String[] education; // 교육](#-public-void-seteducationstring-education)
+- #### [private String[] Platforms & Languages & Tools; // 주요 사용 언어 및 플랫폼](#-public-void-setplatforms--languages--toolsstring-platforms--languages--tools)
+- #### [private String[] certificate; // 자격증](#-public-void-setcertificatestring-certificate)
+- #### [private String[] awards; // 수상](#-public-void-setawardsstring-awards)
+- #### [private List\<String\> projects; // 프로젝트](#-public-void-setprojectsliststring-projects)
 
 
 <hr>
 
-### 👉 public void setIntroduce(String introduce)
-    {
-       	this.introduce = 
-		   "안녕하세요! 저는 백엔드 개발자를 꿈꾸는 유선옥입니다. " + 
-		   "인생의 갈림길에 서있을 적에 머리를 식힐 겸 선암사 여행을 갔습니다." +
-		   "집으로 향하는 버스 창에 머리를 기대며 하루를 돌아볼 때까지 뚜렷한 답이 떠오르지 않았습니다." +
-		   "운명과 같이 버스에 내리자마자 가로등에 IT를 무료로 배울 기회를 준다는 전단지가 눈에 띄었습니다." + 
-		   "\'아...! 이거다 . 이건 다시 나에게 돌아오지 않을 기회다.\'라고 생각한 저는 당장 신청을 했고..." +
-		   "그렇게 점점 개발에 스며들었고..." +
-		   "우리의 인연이 시작되었답니다....🥰";
+### 👉 public void setIntroduce(String introduce){
+    
+  ## this.introduce = 
+   <span>"안녕하세요! 저는 백엔드 개발자를 꿈꾸는 유선옥입니다. " + </span>
+  ##      "인생의 갈림길에 서있을 적에 머리를 식힐 겸 선암사 여행을 갔습니다." +
+  ##      "집으로 향하는 버스 창에 머리를 기대며 하루를 돌아볼 때까지 뚜렷한 답이 떠오르지 않았습니다." +
+  ##      "운명과 같이 버스에 내리자마자 가로등에 IT를 무료로 배울 기회를 준다는 전단지가 눈에 띄었습니다." + 
+  ##      "\'아...! 이거다 . 이건 다시 나에게 돌아오지 않을 기회다.\'라고 생각한 저는 당장 신청을 했고..." +
+  ##      "그렇게 점점 개발에 스며들었고..." +
+  ##      "우리의 인연이 시작되었답니다....🥰";
 	
 		   ˚∧＿∧  　+        —̳͟͞͞💗
 		   (  •‿• )つ  —̳͟͞͞ 💗         —̳͟͞͞💗 +
 		   (つ　 <                —̳͟͞͞💗
 		   ｜　 _つ      +  —̳͟͞͞💗         —̳͟͞͞💗 ˚
  	            `し´			                                                                  
-    }
+### }
     
     
     
