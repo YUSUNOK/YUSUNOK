@@ -1,6 +1,7 @@
 
-<img align=left src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=\'SUNOK\'%20world👋~&fontSize=80" />
-<div align=left >
+
+<div align=left>
+    <img align=left src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=😎HELLO\'SUNOK\'WORLD😎&fontSize=60" />
     <img width="850" height="700" src="https://user-images.githubusercontent.com/107903342/206898415-eb95fb0b-22b1-4e9f-b79b-b32c7224f030.jpg" />
 </div>
 
