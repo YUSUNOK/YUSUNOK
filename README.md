@@ -161,8 +161,9 @@
      <img width="200" height="280" src="https://user-images.githubusercontent.com/107903342/206991350-d1fd4282-0b38-443d-ac67-43e057fb3aad.jpg" />
 </div>
 
+// DBMS를 제어하면서 데이터를 CRUD하는 걸로 재미를 들여서 재밌게 공부했어요 !
 
-  
+<br>  
   
    
 [목록이 뭐였더라..!?](#-public-class-yusunok-)  
