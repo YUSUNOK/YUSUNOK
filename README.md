@@ -122,7 +122,14 @@
 
 
 ### 👉 public void setCertificate(String[] certificate) {
-        this.certificate = new String["2022.12.02 SQLD 한국데이터산업진흥원"];
+this.certificate = new String[  
+날짜|내용|기관   
+---|---|---  
+"2022년12월02일"|"SQLD"|"한국데이터산업진흥원"  
+
+]
+
+  
     
 <div>
     <img width="200" height="280" src="https://user-images.githubusercontent.com/107903342/206966593-40d45e1c-bff1-4993-bc42-c74cc49643b2.jpg" />
@@ -138,16 +145,20 @@
 
 
 
-### 👉 public void setAwards(String[] awards) {
-        this.awards = new String["Kaggle 전자 상거래 물품 배송 예측(분류) 대회/최우수상/스마트인재개발원",
-				      "감각기계 데이터1 인공지능 개발 경진대회/최우수상/"];
-   
-   
-
+### 👉 public void setAwards(String[] awards) {  
+   this.awards = new String[  
+날짜|내용|결과|주최기관   
+---|---|---|---    
+"2022년10월21일"|"Kaggle 전자 상거래 물품 배송 예측(분류) 대회"|"최우수상"|"스마트인재개발원"     
+"2022년11월23일"|"인공지능 학습데이터 활용 경진대회 감각기계 서비스 개발분야"|"최우수상"|"과학기술정보통신부"  
+  
+ ]
 <div>
     <img width="200" height="280" src="https://user-images.githubusercontent.com/107903342/206998413-2b7920a9-d085-47c6-be7f-61e396fcd96a.png" />
-     <img width="200" height="280" src="https://user-images.githubusercontent.com/107903342/207262329-83d16639-b9af-488f-afb5-f4497805608b.jpg" />
+     <img width="200" height="280" src="https://user-images.githubusercontent.com/107903342/207263929-2c9949dc-6684-429b-91e7-9ccf0231b35e.jpg" />
 </div>  
+
+
 
  ## [}](#-public-class-yusunok-)  
 
