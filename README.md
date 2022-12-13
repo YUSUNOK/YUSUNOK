@@ -55,20 +55,28 @@
 ## [}](#-public-class-yusunok-)
 
 ## 👉public void setDreams(List\<String\> dreams){
- #### this.dreams = new ArrayList\<String\>();  
-   myDream.add("새로운 것을 스펀지처럼 습득하여 활용하는 백엔드 개발자가 되는 것.");  
-   myDream.add("더 나아가 회사에 이윤을 높히는 데 기여 하는 것.");  
-   myDream.add("소통과 협업능력이 좋은 개발자가 되는 것.");  
-   myDream.add("코딩에 푹 빠진 열정적인 개발자가 되는 것.");  
-   myDream.add("개인적으로 존경하는 개발자분을 닮기 위해 부단히 노력하는 것.");  
-   myDream.add("그럼에도 커피보다는 운동을...(쿨럭) 좋아하는 개발자가 되는 것.");  
+ #### this.dreams = new ArrayList\<String\>(); 
+ 
+ 🚀|내용|🚀
+---|---|---  
+myDream.add("|새로운 것을 스펀지처럼 습득하여 활용하는 백엔드 개발자가 되는 것.|");      
+myDream.add("|더 나아가 회사에 이윤을 높히는 데 기여 하는 것.|");    
+myDream.add("|소통과 협업능력이 좋은 개발자가 되는 것.|");    
+myDream.add("|코딩에 푹 빠진 열정적인 개발자가 되는 것.|");    
+myDream.add("|개인적으로 존경하는 개발자분을 닮기 위해 부단히 노력하는 것.|");    
+myDream.add("|그럼에도 커피보다는 운동을...(쿨럭) 좋아하는 개발자가 되는 것.|");    
 ## [}](#-public-class-yusunok-)
 	
 ## 👉public void setEducation(String[] education){
- #### this.education = new String\[3\];    
-   education\[0\] = "2019.07.01-2019.08.31(160시간) \'AI 기술활용 (기본)\' 정보통신산업진흥원";      
-   education\[1\] = "2022.06.20-2022.12.14          \'빅데이터 분석서비스 개발자과정\' 스마트인재개발원";    
-   education\[2\] = "2022.12.14-                    \'복습 및 개인공부 블로그에 포스팅하기\' ";    
+ #### this.education = new String\[3\];
+   
+📝|교육 기간|내용|교육 기관  
+---|---|---|---  
+education\[0\]|"2019.07.01-2019.08.31"|AI 기술활용 (기본)|정보통신산업진흥원    
+education\[1\]|"2022.06.20-2022.12.14"|빅데이터 분석서비스 개발자과정|스마트인재개발원  
+education\[2\]|"2022.12.14- "|복습 및 개인공부 블로그에 포스팅하기| " "   
+
+
 <div>
     <img width="200" height="280" src="https://user-images.githubusercontent.com/107903342/206899758-c8f88b61-53f0-4b58-b461-8ebebcbdb6ac.png" />
 </div>
