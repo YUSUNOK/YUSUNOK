@@ -36,8 +36,8 @@
  [private String[] awards; // 수상](#-public-void-setawardsstring-awards)  
  [private List\<String\> projects; // 프로젝트](#-public-void-setprojectsliststring-projects)  
 
-
-
+ ## [}](#-public-class-yusunok-)  
+ 
 ## 👉 public void setIntroduce(String introduce){
  #### this.introduce = 
    "안녕하세요! 저는 백엔드 개발자를 꿈꾸는 유선옥입니다. " +  
@@ -115,15 +115,14 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white" />
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white" />
-</div>
- ## [}](#-public-class-yusunok-)  
+</div>  
+
+## [}](#-public-class-yusunok-)  
 
 
 
-### 👉 public void setCertificate(String[] certificate) 
-    {
+### 👉 public void setCertificate(String[] certificate) {
         this.certificate = new String["2022.12.02 SQLD 한국데이터산업진흥원"];
-    }
     
 <div>
     <img width="200" height="280" src="https://user-images.githubusercontent.com/107903342/206966593-40d45e1c-bff1-4993-bc42-c74cc49643b2.jpg" />
@@ -131,40 +130,29 @@
 </div>
 
  // RDBMS를 제어하는 언어를 통해 데이터를 CRUD하는게 재밌어서 흥미가 생겼어요 ! 
+ ## [}](#-public-class-yusunok-)  
 
-<br>  
   
    
-[목록이 뭐였더라..!?](#-public-class-yusunok-)  
 
 
-<hr>
 
-### 👉 public void setAwards(String[] awards)
-    {
+### 👉 public void setAwards(String[] awards) {
         this.awards = new String["Kaggle 전자 상거래 물품 배송 예측(분류) 대회/최우수상/스마트인재개발원",
 				      "감각기계 데이터1 인공지능 개발 경진대회/최우수상/"];
-    }
    
    
 
 <div>
     <img width="200" height="280" src="https://user-images.githubusercontent.com/107903342/206998413-2b7920a9-d085-47c6-be7f-61e396fcd96a.png" />
     
-</div>
+</div>  
 
+ ## [}](#-public-class-yusunok-)  
 
-    
-    
-[목록이 뭐였더라..!?](#-public-class-yusunok-)  
-
-
-<hr>
-
-### 👉 public void setProjects(List\<String\> projects)
-    {
+### 👉 public void setProjects(List\<String\> projects){
         this.projects = projects;
-    }
+ ## [}](#-public-class-yusunok-)  
     
 
 
@@ -191,13 +179,7 @@
 
 
       
-      
-
-
-
-
-
-[목록이 뭐였더라..!?](#-public-class-yusunok-) 
+     
 
 
 
