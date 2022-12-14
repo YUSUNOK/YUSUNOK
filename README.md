@@ -57,7 +57,7 @@
 ## 👉public void setDreams(List\<String\> dreams){
  #### this.dreams = new ArrayList\<String\>(); 
  
- 🚀|내용|🔮
+ 🚀|내용|
 ---|---|---  
 myDream.add("|새로운 것을 스펀지처럼 습득하여 활용하는 백엔드 개발자가 되는 것.|");      
 myDream.add("|더 나아가 회사에 이윤을 높히는 데 기여 하는 것.|");    
@@ -217,21 +217,7 @@ this.certificate = new String[
     
 
 
-<div align=center>
-	<a href="https://yermi.co.kr">
-		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
-	</a>
-	<a href="https://yermi.tistory.com">
-		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
-	</a>
-	<a href="mailto:admin@yermi.co.kr">
-		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
-	</a>
-	<a href="https://gentle-snowboard-1c6.notion.site/Yermi-5e8c65dba4df4ab09e83665cf2ee001d">
-		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
-	</a>
-	<br>
-</div>
+
 <div align=center>
 	<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kycasdzxc&layout=compact">
