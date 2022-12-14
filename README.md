@@ -109,7 +109,7 @@ WEB Server|IDE|Team Collaboration Tool
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black" /><img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white" />|<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white" /><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white" /><img src="https://img.shields.io/badge/colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white" /><img src="https://img.shields.io/badge/jupyter notebook-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" />|<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" />
 
 
-Library|  
+Etc|  
 ---|  
 <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" /><img src="https://img.shields.io/badge/ajax-40AEF0?style=for-the-badge"/><img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=JSON&logoColor=white" /><img src="https://img.shields.io/badge/Mybatis-000000?style=for-the-badge&logo=Fluentd&logoColor=white" /><img src="https://img.shields.io/badge/Apache Maven-C71A36?style=for-the-badge&logo=Apache Maven&logoColor=white" />
 
