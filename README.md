@@ -109,12 +109,9 @@ WEB Server|IDE|Team Collaboration Tool
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black" /><img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white" />|<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white" /><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white" /><img src="https://img.shields.io/badge/colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white" /><img src="https://img.shields.io/badge/jupyter notebook-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" />|<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" />
 
 
-
-<img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
-<img src="https://img.shields.io/badge/ajax-40AEF0?style=for-the-badge"/>	
-<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=JSON&logoColor=white" />	
-<img src="https://img.shields.io/badge/Mybatis-000000?style=for-the-badge&logo=Fluentd&logoColor=white" />
-<img src="https://img.shields.io/badge/Apache Maven-C71A36?style=for-the-badge&logo=Apache Maven&logoColor=white" />
+Library|  
+---|  
+<img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" /><img src="https://img.shields.io/badge/ajax-40AEF0?style=for-the-badge"/><img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=JSON&logoColor=white" /><img src="https://img.shields.io/badge/Mybatis-000000?style=for-the-badge&logo=Fluentd&logoColor=white" /><img src="https://img.shields.io/badge/Apache Maven-C71A36?style=for-the-badge&logo=Apache Maven&logoColor=white" />
 
 
 
@@ -271,21 +268,8 @@ this.certificate = new String[
 	
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kycasdzxc)](https://solved.ac/kycasdzxc)
 </div>
-<div align=center>
-	<p>🎨 SNS & Portfolio 🎨</p>
-</div>
-<div align=center>
-	<a href="https://yermi.co.kr">
-		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
-	</a>
-	<a href="https://yermi.tistory.com">
-		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
-	</a>
-	<a href="https://gentle-snowboard-1c6.notion.site/Yermi-5e8c65dba4df4ab09e83665cf2ee001d">
-		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
-	</a>
-	<br>
-</div>
+
+
 <br>
 <div align=center>
 	
