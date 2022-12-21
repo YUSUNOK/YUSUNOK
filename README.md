@@ -1,7 +1,6 @@
 <div align=left>
     <img align=left src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=😎HELLO\'SUNOK\'WORLD😎&fontSize=60" />
-    <img width="855" height="650" src="https://user-images.githubusercontent.com/107903342/206977176-0f0446cf-77ae-4d5c-9600-46c851454574.jpg" />
-</div>
+</div>  
  
 ## ❓Readme 사용법
 
