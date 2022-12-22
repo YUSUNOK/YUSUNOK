@@ -1,7 +1,9 @@
 <div align=left>
-    <img align=left src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=😎HELLO\'SUNOK\'WORLD😎&fontSize=60" />
-</div>  
- 
+    <img align=left src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=400&section=header&text=😎HELLO\'SUNOK\'WORLD😎&fontSize=60" />
+</div>    
+
+
+
 ## ❓Readme 사용법
 
 - 자바 객체형태로 저를 표현해 봤어요
