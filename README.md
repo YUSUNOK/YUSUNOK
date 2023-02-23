@@ -12,8 +12,6 @@
 - 12월 : 
 
 - ---
-
-- ---
 🌱
 - blog : [blog](https://velog.io/@sunokryu_123)
 - github :[github](https://github.com/YUSUNOK)
