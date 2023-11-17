@@ -1,2 +1,1 @@
-  🌱
-[blog](https://velog.io/@sunokryu_123)
+이전 깃허브 계정입니다. 
